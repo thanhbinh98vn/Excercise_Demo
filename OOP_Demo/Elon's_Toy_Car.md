@@ -2,7 +2,7 @@ Hướng dẫn
 
 Trong bài tập này, bạn sẽ phải hiển thị thông số của một chiếc xe ô tô điều khiển từ xa.
 
-Xe khởi động khi đầy (100%) ắc quy. Mỗi lần xe di chuyển, nó sẽ đi được 20 mét và tiêu hao một phần trăm pin.
+Khi xe khởi động pin đầy (100%). Mỗi lần xe di chuyển, nó sẽ đi được 20 mét và tiêu hao một phần trăm pin.
 
 Chiếc xe điều khiển từ xa có màn hình LED lạ mắt hiển thị hai thông tin:
 
