@@ -19,6 +19,7 @@ Yêu cầu:
 Bạn cần phải tạo một class ``ElonsToyCar`` để thực hiện các yêu cầu sau.
 
 1. Mua ô tô điều khiển từ xa
+
     Thực hiện phương thức ( static ) ``ElonsToyCar.buy()`` để trả về một phiên bản ô tô được điều khiển từ xa mới:
 
     ```Java
@@ -26,6 +27,7 @@ Bạn cần phải tạo một class ``ElonsToyCar`` để thực hiện các y
     ```
 
 2. Hiển thị quãng đường đã đi
+
     Thực hiện phương thức ``ElonsToyCar.distanceDisplay()`` để trả về khoảng cách như được hiển thị trên màn hình LED:
 
     ```Java
