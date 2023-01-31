@@ -18,7 +18,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 1. Diễn tả một Võ sĩ
 
-    Ghi đè phương thức toString() trên lớp Fighter để trả về mô tả Võ sĩ, được định dạng là "Fighter is a <FIGHTER_TYPE>".
+    Ghi đè phương thức ``toString()`` trên lớp Fighter để trả về mô tả Võ sĩ, được định dạng là "Fighter is a <FIGHTER_TYPE>".
 
     ```Java
         Fighter warrior = new Warrior();
@@ -28,7 +28,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 2. Làm cho Võ sĩ không dễ bị tấn công theo mặc định
 
-    Đảm bảo rằng phương thức Fighter.isVulnerable()luôn trả về false.
+    Đảm bảo rằng phương thức ``Fighter.isVulnerable()`` luôn trả về false.
 
     ```Java
         Fighter warrior = new Warrior();
@@ -38,7 +38,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 3. Cho phép Pháp sư chuẩn bị một câu thần chú
 
-    Viết phương thức Wizard.prepareSpell() cho phép Pháp sư chuẩn bị trước một câu thần chú.
+    Viết phương thức ``Wizard.prepareSpell() `` cho phép Pháp sư chuẩn bị trước một câu thần chú.
 
     ```Java
         Wizard wizard = new Wizard();
@@ -47,7 +47,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 4. Pháp Sư sơ hở khi chưa chuẩn bị bùa chú
 
-    Đảm bảo rằng phương thức isVulnerable() trả về true nếu Pháp sư không chuẩn bị câu thần chú; nếu không, hãy trả lại false.
+    Đảm bảo rằng phương thức ``isVulnerable()`` trả về true nếu Pháp sư không chuẩn bị câu thần chú; nếu không, hãy trả lại false.
 
     ```Java
         Fighter wizard = new Wizard();
@@ -57,7 +57,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 5. Tính điểm sát thương cho Pháp Sư
 
-    Thực hiện phương pháp Wizard.damagePoints() trả lại điểm sát thương đã gây ra: 12 điểm sát thương khi đã chuẩn bị phép thuật, 3 điểm sát thương khi không chuẩn bị.
+    Viết phương thức ``Wizard.damagePoints()`` trả lại điểm sát thương đã gây ra: 12 điểm sát thương khi đã chuẩn bị phép thuật, 3 điểm sát thương khi không chuẩn bị.
 
     ```Java
         Wizard wizard = new Wizard();
@@ -70,7 +70,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 6. Tính điểm sát thương cho Chiến binh
 
-    Thực hiện phương pháp Warrior.damagePoints() hoàn trả điểm sát thương gây ra: 10 điểm sát thương khi mục tiêu dễ bị tổn thương, 6 điểm sát thương khi không.
+    Viết phương thức `` Warrior.damagePoints()`` hoàn trả điểm sát thương gây ra: 10 điểm sát thương khi mục tiêu dễ bị tổn thương, 6 điểm sát thương khi không.
 
     ```Java
         Warrior warrior = new Warrior();

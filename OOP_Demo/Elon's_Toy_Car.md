@@ -15,14 +15,14 @@ Bạn có sáu nhiệm vụ, mỗi nhiệm vụ sẽ hoạt động với các p
 
 
 1. Mua ô tô điều khiển từ xa mới toanh
-    Triển khai phương thức ( tĩnh ) ElonsToyCar.buy() để trả về một phiên bản ô tô được điều khiển từ xa hoàn toàn mới:
+    Triển khai phương thức ( static ) ``ElonsToyCar.buy()`` để trả về một phiên bản ô tô được điều khiển từ xa hoàn toàn mới:
 
     ```Java
         ElonsToyCar car = ElonsToyCar.buy();
     ```
 
 2. Hiển thị quãng đường đã đi
-    Triển khai phương thức ElonsToyCar.distanceDisplay() để trả về khoảng cách như được hiển thị trên màn hình LED:
+    Triển khai phương thức ``ElonsToyCar.distanceDisplay()`` để trả về khoảng cách như được hiển thị trên màn hình LED:
 
     ```Java
         ElonsToyCar car = ElonsToyCar.buy();
@@ -32,7 +32,7 @@ Bạn có sáu nhiệm vụ, mỗi nhiệm vụ sẽ hoạt động với các p
 
 3. Hiển thị phần trăm pin
 
-    Triển khai phương thức ElonsToyCar.batteryDisplay() trả về phần trăm pin như hiển thị trên màn hình LED:
+    Triển khai phương thức ``ElonsToyCar.batteryDisplay()`` trả về phần trăm pin như hiển thị trên màn hình LED:
 
     ```Java
         ElonsToyCar car = ElonsToyCar.buy();
@@ -42,7 +42,7 @@ Bạn có sáu nhiệm vụ, mỗi nhiệm vụ sẽ hoạt động với các p
 
 4. Cập nhật số mét đã đi khi lái xe
 
-    Triển khai phương thức ElonsToyCar.drive() cập nhật số mét đã lái:
+    Triển khai phương thức ``ElonsToyCar.drive()`` cập nhật số mét đã lái:
 
 
     ```Java
@@ -54,7 +54,7 @@ Bạn có sáu nhiệm vụ, mỗi nhiệm vụ sẽ hoạt động với các p
     ```
 
 5. Cập nhật phần trăm pin khi lái xe
-Cập nhật ElonsToyCar.drive()phương pháp cập nhật phần trăm pin:
+Cập nhật phương thức ``ElonsToyCar.drive()`` cập nhật phần trăm pin:
 
     ```Java
         ElonsToyCar car = ElonsToyCar.buy();
@@ -66,7 +66,7 @@ Cập nhật ElonsToyCar.drive()phương pháp cập nhật phần trăm pin:
 
 6. Tránh lái xe khi hết pin
 
-    Cập nhật ElonsToyCar.drive()phương pháp để không tăng quãng đường đã đi cũng như không giảm phần trăm pin khi hết pin (ở mức 0%):
+    Cập nhật phương thức ``ElonsToyCar.drive() ``để không tăng quãng đường đã đi cũng như không giảm phần trăm pin khi hết pin (ở mức 0%):
 
     ```Java
         ElonsToyCar car = ElonsToyCar.buy();
