@@ -1,4 +1,5 @@
 Hướng dẫn
+
 Trong bài tập này, bạn đang chơi một trò chơi nhập vai có tên là "Pháp sư và Chiến binh", trò chơi này cho phép bạn đóng vai Pháp sư hoặc Chiến binh.
 
 Có các quy tắc khác nhau dành cho Chiến binh và Pháp sư để xác định số điểm sát thương mà họ gây ra.
