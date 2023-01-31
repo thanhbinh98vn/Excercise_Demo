@@ -3,14 +3,17 @@ Trong bài tập này, bạn đang chơi một trò chơi nhập vai có tên l�
 
 Có các quy tắc khác nhau dành cho Chiến binh và Pháp sư để xác định số điểm sát thương mà họ gây ra.
 
-Đối với một Chiến binh, đây là các quy tắc:
+Đối với một Chiến binh, có các quy tắc như sau :
 
-Gây 6 điểm sát thương nếu võ sĩ mà họ đang tấn công không dễ bị tổn thương
-Gây 10 điểm sát thương nếu võ sĩ mà họ đang tấn công dễ bị tổn thương
-Đối với một Pháp sư, đây là các quy tắc:
+- Gây 6 điểm sát thương nếu đối phương mà họ đang tấn công không dễ bị tổn thương
 
-Gây 12 điểm sát thương nếu Pháp sư chuẩn bị trước một câu thần chú
-Gây 3 điểm sát thương nếu Pháp sư không chuẩn bị bùa chú trước
+- Gây 10 điểm sát thương nếu đối phương mà họ đang tấn công dễ bị tổn thương
+
+Đối với một Pháp sư, có các quy tắc như sau :
+
+- Gây 12 điểm sát thương nếu Pháp sư chuẩn bị trước một câu thần chú
+
+- Gây 3 điểm sát thương nếu Pháp sư không chuẩn bị bùa chú trước
 
 Nói chung, Võ sĩ không bao giờ dễ bị tổn thương. Tuy nhiên, Pháp Sư rất dễ bị tổn thương nếu chưa chuẩn bị bùa chú.
 
