@@ -6,9 +6,9 @@ Xe khởi động khi đầy (100%) ắc quy. Mỗi lần xe di chuyển, nó s�
 
 Chiếc xe điều khiển từ xa có màn hình LED lạ mắt hiển thị hai thông tin:
 
-   - Tổng quãng đường nó đã lái, được hiển thị dưới dạng: "Driven /<METERS/> meters".
+   - Tổng quãng đường nó đã lái, được hiển thị dưới dạng: ``"Driven /<METERS/> meters"``.
 
-   - Lượng pin còn lại, được hiển thị dưới dạng: "Battery at /<PERCENTAGE/>%".
+   - Lượng pin còn lại, được hiển thị dưới dạng: ``"Battery at /<PERCENTAGE/>%"``.
 
 Nếu pin ở mức 0%, bạn không thể lái xe nữa và màn hình pin sẽ hiển thị "Battery empty".
 
