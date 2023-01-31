@@ -78,7 +78,7 @@ Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh 
 
 6. Tính điểm sát thương cho Chiến binh
 
-    Viết phương thức `` Warrior.damagePoints()`` hoàn trả điểm sát thương gây ra: 10 điểm sát thương khi mục tiêu dễ bị tổn thương, 6 điểm sát thương khi không.
+    Viết phương thức `` Warrior.damagePoints()`` hoàn trả điểm sát thương gây ra: 10 điểm sát thương khi mục tiêu dễ bị tổn thương, 6 điểm sát thương khi không chuẩn bị.
 
     ```Java
         Warrior warrior = new Warrior();
