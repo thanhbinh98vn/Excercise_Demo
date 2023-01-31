@@ -1,6 +1,8 @@
 Hướng dẫn
 
-Trong bài tập này, bạn đang chơi một trò chơi nhập vai có tên là "Pháp sư và Chiến binh", trò chơi này cho phép bạn đóng vai Pháp sư hoặc Chiến binh.
+Trong bài tập này, hãy tưởng tượng bạn đang chơi một trò chơi nhập vai có tên là "Pháp sư và Chiến binh", trò chơi này cho phép bạn đóng vai là Pháp sư hoặc là Chiến binh.
+
+Giả thiết:
 
 Có các quy tắc khác nhau dành cho Chiến binh và Pháp sư để xác định số điểm sát thương mà họ gây ra.
 
@@ -17,6 +19,8 @@ Có các quy tắc khác nhau dành cho Chiến binh và Pháp sư để xác đ
 - Gây 3 điểm sát thương nếu Pháp sư không chuẩn bị bùa chú trước
 
 Nói chung, Võ sĩ không bao giờ dễ bị tổn thương. Tuy nhiên, Pháp Sư rất dễ bị tổn thương nếu chưa chuẩn bị bùa chú.
+
+Yêu cầu:
 
 Bạn có sáu nhiệm vụ hoạt động với các chiến binh Chiến binh và Pháp sư.
 
